@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wg3BOM3mOS4=",
+  "dgSpecHash": "2jryl3Z4i/8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aaron\\Source\\Repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
+  "projectFilePath": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aaron\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\aaron\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

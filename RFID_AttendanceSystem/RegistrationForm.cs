@@ -13,7 +13,7 @@ namespace RFID_AttendanceSystem
     public partial class RegistrationForm : Form
     {
 
-        
+
         public RegistrationForm()
         {
             InitializeComponent();
@@ -22,6 +22,12 @@ namespace RFID_AttendanceSystem
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void btnCreateNew_Click(object sender, EventArgs e)
+        {
+            RegistrationWindow registrationWindow = new RegistrationWindow();
+            registrationWindow.ShowDialog();
         }
     }
 }

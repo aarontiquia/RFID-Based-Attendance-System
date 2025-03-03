@@ -47,20 +47,22 @@
             // 
             // panel1
             // 
+            panel1.BackColor = Color.FromArgb(10, 50, 57);
             panel1.Controls.Add(label2);
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(731, 47);
+            panel1.Size = new Size(731, 43);
             panel1.TabIndex = 0;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F);
-            label2.Location = new Point(18, 14);
+            label2.Font = new Font("Arial", 12F);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(9, 12);
             label2.Name = "label2";
-            label2.Size = new Size(151, 21);
+            label2.Size = new Size(149, 18);
             label2.TabIndex = 0;
             label2.Text = "Student Registration";
             // 
@@ -68,22 +70,26 @@
             // 
             panel2.Controls.Add(btnCreateNew);
             panel2.Dock = DockStyle.Top;
-            panel2.Location = new Point(0, 47);
+            panel2.Location = new Point(0, 43);
             panel2.Name = "panel2";
             panel2.Size = new Size(731, 33);
             panel2.TabIndex = 1;
             // 
             // btnCreateNew
             // 
+            btnCreateNew.Cursor = Cursors.Hand;
+            btnCreateNew.Font = new Font("Arial", 9F);
             btnCreateNew.Location = new Point(3, 2);
             btnCreateNew.Name = "btnCreateNew";
             btnCreateNew.Size = new Size(104, 30);
             btnCreateNew.TabIndex = 0;
             btnCreateNew.Text = "Create New";
             btnCreateNew.UseVisualStyleBackColor = true;
+            btnCreateNew.Click += btnCreateNew_Click;
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
             dataGridView1.BackgroundColor = SystemColors.ButtonFace;
             dataGridView1.BorderStyle = BorderStyle.Fixed3D;
             dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
@@ -91,10 +97,10 @@
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { colStudId, colName, colRFIDtag, colProgram, colDate, colEdit, colDelete });
             dataGridView1.Dock = DockStyle.Fill;
             dataGridView1.EnableHeadersVisualStyles = false;
-            dataGridView1.Location = new Point(0, 80);
+            dataGridView1.Location = new Point(0, 76);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersVisible = false;
-            dataGridView1.Size = new Size(731, 392);
+            dataGridView1.Size = new Size(731, 396);
             dataGridView1.TabIndex = 2;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -116,7 +122,7 @@
             colRFIDtag.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
             colRFIDtag.HeaderText = "RFID Tag";
             colRFIDtag.Name = "colRFIDtag";
-            colRFIDtag.Width = 75;
+            colRFIDtag.Width = 76;
             // 
             // colProgram
             // 

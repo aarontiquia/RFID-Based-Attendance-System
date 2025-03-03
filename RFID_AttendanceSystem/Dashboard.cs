@@ -27,27 +27,49 @@ namespace RFID_AttendanceSystem
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnReports_Click(object sender, EventArgs e)
-        {
-            RegistrationWindow registrationWindow = new RegistrationWindow();
-            registrationWindow.ShowDialog();
-        }
-
         private void btnRegistration_Click(object sender, EventArgs e)
         {
-            RegistrationWindow registrationWindow = new RegistrationWindow();
-            registrationWindow.ShowDialog();
+            openChildForm(new RegistrationForm());
+        }
+
+        private void btnDashboard_Click(object sender, EventArgs e)
+        {
+            openChildForm(new DashboardPanel());
         }
 
         private void btnLiveView_Click(object sender, EventArgs e)
         {
-           LiveView liveView = new LiveView();
-           liveView.ShowDialog();
+            openChildForm(new LiveView());
+        }
+
+        private Form activeForm = null;
+        private void openChildForm(Form childForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            panelDashboard.Controls.Add(childForm);
+            panelDashboard.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+        }
+
+        private void panelDashboard_Paint(object sender, PaintEventArgs e)
+        {
+            openChildForm(new DashboardPanel());
+        }
+
+        private void btnReports_Click(object sender, EventArgs e)
+        {
+            openChildForm(new Reports());
+        }
+
+        private void btnSettings_Click(object sender, EventArgs e)
+        {
+            openChildForm(new Settings());
         }
     }
 }

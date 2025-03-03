@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
-            aloneTextBox1 = new ReaLTaiizor.Controls.AloneTextBox();
+            btnExport = new Button();
             label1 = new Label();
             dateTimePicker1 = new DateTimePicker();
             label2 = new Label();
@@ -43,7 +43,8 @@
             Column4 = new DataGridViewTextBoxColumn();
             Column5 = new DataGridViewTextBoxColumn();
             Column6 = new DataGridViewTextBoxColumn();
-            btnExport = new Button();
+            textBox1 = new TextBox();
+            button1 = new Button();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -51,30 +52,32 @@
             // 
             // panel1
             // 
+            panel1.BackColor = Color.FromArgb(10, 50, 57);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(textBox1);
             panel1.Controls.Add(btnExport);
-            panel1.Controls.Add(aloneTextBox1);
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(731, 41);
+            panel1.Size = new Size(731, 43);
             panel1.TabIndex = 0;
             // 
-            // aloneTextBox1
+            // btnExport
             // 
-            aloneTextBox1.BackColor = Color.Transparent;
-            aloneTextBox1.EnabledCalc = true;
-            aloneTextBox1.Font = new Font("Segoe UI", 9F);
-            aloneTextBox1.ForeColor = Color.FromArgb(124, 133, 142);
-            aloneTextBox1.Location = new Point(10, 9);
-            aloneTextBox1.MaxLength = 32767;
-            aloneTextBox1.MultiLine = false;
-            aloneTextBox1.Name = "aloneTextBox1";
-            aloneTextBox1.ReadOnly = false;
-            aloneTextBox1.Size = new Size(241, 23);
-            aloneTextBox1.TabIndex = 3;
-            aloneTextBox1.Text = "Search";
-            aloneTextBox1.TextAlign = HorizontalAlignment.Left;
-            aloneTextBox1.UseSystemPasswordChar = false;
+            btnExport.Cursor = Cursors.Hand;
+            btnExport.FlatAppearance.BorderSize = 0;
+            btnExport.FlatStyle = FlatStyle.Flat;
+            btnExport.Font = new Font("Arial", 12F);
+            btnExport.ForeColor = Color.White;
+            btnExport.Image = Properties.Resources.export;
+            btnExport.ImageAlign = ContentAlignment.MiddleRight;
+            btnExport.Location = new Point(636, 8);
+            btnExport.Name = "btnExport";
+            btnExport.Size = new Size(90, 28);
+            btnExport.TabIndex = 4;
+            btnExport.Text = "Export";
+            btnExport.TextAlign = ContentAlignment.MiddleLeft;
+            btnExport.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
@@ -128,19 +131,24 @@
             panel2.Controls.Add(label2);
             panel2.Controls.Add(dateTimePicker1);
             panel2.Dock = DockStyle.Top;
-            panel2.Location = new Point(0, 41);
+            panel2.Location = new Point(0, 43);
             panel2.Name = "panel2";
             panel2.Size = new Size(731, 35);
             panel2.TabIndex = 2;
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.BackgroundColor = Color.White;
+            dataGridView1.BorderStyle = BorderStyle.None;
+            dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3, Column4, Column5, Column6 });
             dataGridView1.Dock = DockStyle.Fill;
-            dataGridView1.Location = new Point(0, 76);
+            dataGridView1.EnableHeadersVisualStyles = false;
+            dataGridView1.Location = new Point(0, 78);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(731, 396);
+            dataGridView1.Size = new Size(731, 394);
             dataGridView1.TabIndex = 3;
             // 
             // Column1
@@ -184,14 +192,26 @@
             Column6.Name = "Column6";
             Column6.Width = 64;
             // 
-            // btnExport
+            // textBox1
             // 
-            btnExport.Location = new Point(644, 9);
-            btnExport.Name = "btnExport";
-            btnExport.Size = new Size(75, 23);
-            btnExport.TabIndex = 4;
-            btnExport.Text = "Export";
-            btnExport.UseVisualStyleBackColor = true;
+            textBox1.Cursor = Cursors.IBeam;
+            textBox1.Font = new Font("Arial", 9F);
+            textBox1.Location = new Point(12, 10);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(209, 21);
+            textBox1.TabIndex = 5;
+            // 
+            // button1
+            // 
+            button1.Cursor = Cursors.Hand;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Image = Properties.Resources.search__2_;
+            button1.Location = new Point(220, 10);
+            button1.Name = "button1";
+            button1.Size = new Size(33, 23);
+            button1.TabIndex = 6;
+            button1.UseVisualStyleBackColor = true;
             // 
             // Reports
             // 
@@ -204,6 +224,7 @@
             Name = "Reports";
             Text = "Reports";
             panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
@@ -216,7 +237,6 @@
         private Label label2;
         private DateTimePicker dateTimePicker1;
         private Label label1;
-        private ReaLTaiizor.Controls.AloneTextBox aloneTextBox1;
         private ReaLTaiizor.Controls.PoisonDropDownButton poisonDropDownButton1;
         private Label label3;
         private Panel panel2;
@@ -228,5 +248,7 @@
         private DataGridViewTextBoxColumn Column5;
         private DataGridViewTextBoxColumn Column6;
         private Button btnExport;
+        private Button button1;
+        private TextBox textBox1;
     }
 }

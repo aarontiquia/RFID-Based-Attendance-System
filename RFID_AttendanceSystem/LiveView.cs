@@ -41,5 +41,11 @@ namespace RFID_AttendanceSystem
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LiveView liveView = new LiveView();
+            liveView.ShowDialog();
+        }
     }
 }
