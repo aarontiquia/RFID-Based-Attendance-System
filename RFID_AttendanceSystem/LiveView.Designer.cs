@@ -77,7 +77,6 @@
             panel4.BackColor = Color.FromArgb(10, 50, 57);
             panel4.Controls.Add(panel7);
             panel4.Controls.Add(label1);
-            panel4.Controls.Add(button1);
             panel4.Controls.Add(panel3);
             panel4.Dock = DockStyle.Top;
             panel4.Location = new Point(0, 0);
@@ -90,6 +89,7 @@
             // 
             panel7.Controls.Add(lblDate3);
             panel7.Controls.Add(lblTime3);
+            panel7.Controls.Add(button1);
             panel7.Dock = DockStyle.Right;
             panel7.Location = new Point(471, 0);
             panel7.Name = "panel7";
@@ -112,7 +112,7 @@
             lblTime3.AutoSize = true;
             lblTime3.Font = new Font("Arial", 12F);
             lblTime3.ForeColor = Color.White;
-            lblTime3.Location = new Point(139, 33);
+            lblTime3.Location = new Point(144, 33);
             lblTime3.Name = "lblTime3";
             lblTime3.Size = new Size(42, 18);
             lblTime3.TabIndex = 7;
@@ -120,12 +120,14 @@
             // 
             // button1
             // 
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Arial", 9F);
-            button1.Location = new Point(414, 17);
+            button1.Image = Properties.Resources.fullscreen;
+            button1.Location = new Point(222, 9);
             button1.Name = "button1";
-            button1.Size = new Size(49, 28);
+            button1.Size = new Size(38, 39);
             button1.TabIndex = 8;
-            button1.Text = "View";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -347,6 +349,7 @@
             Controls.Add(panel4);
             Margin = new Padding(3, 2, 3, 2);
             Name = "LiveView";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "LiveView";
             panel4.ResumeLayout(false);
             panel4.PerformLayout();

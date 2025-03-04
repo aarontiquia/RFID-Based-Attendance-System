@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            button1 = new Button();
             label2 = new Label();
             label1 = new Label();
             txtBoxStudId = new TextBox();
@@ -44,7 +45,7 @@
             btnSave = new Button();
             btnCancel = new Button();
             btnBrowse = new Button();
-            button1 = new Button();
+            openFileDialog1 = new OpenFileDialog();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -59,6 +60,20 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(747, 43);
             panel1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            button1.FlatAppearance.BorderSize = 0;
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Image = Properties.Resources.close;
+            button1.Location = new Point(709, 7);
+            button1.Name = "button1";
+            button1.Size = new Size(31, 28);
+            button1.TabIndex = 2;
+            button1.TextAlign = ContentAlignment.MiddleRight;
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label2
             // 
@@ -179,6 +194,7 @@
             // pictureBox2
             // 
             pictureBox2.Anchor = AnchorStyles.None;
+            pictureBox2.BackgroundImageLayout = ImageLayout.Zoom;
             pictureBox2.Location = new Point(80, 95);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(245, 209);
@@ -223,18 +239,11 @@
             btnBrowse.TabIndex = 12;
             btnBrowse.Text = "Browse";
             btnBrowse.UseVisualStyleBackColor = true;
+            btnBrowse.Click += btnBrowse_Click;
             // 
-            // button1
+            // openFileDialog1
             // 
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.Image = Properties.Resources.close;
-            button1.Location = new Point(709, 7);
-            button1.Name = "button1";
-            button1.Size = new Size(31, 28);
-            button1.TabIndex = 2;
-            button1.TextAlign = ContentAlignment.MiddleRight;
-            button1.UseVisualStyleBackColor = true;
+            openFileDialog1.FileName = "openFileDialog1";
             // 
             // RegistrationWindow
             // 
@@ -259,6 +268,7 @@
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "RegistrationWindow";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "RegistrationWindow";
             Load += RegistrationWindow_Load;
             panel1.ResumeLayout(false);
@@ -287,5 +297,6 @@
         private Button btnCancel;
         private Button btnBrowse;
         private Button button1;
+        private OpenFileDialog openFileDialog1;
     }
 }

@@ -1,42 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\",
+  "WorkspaceRootPath": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\aaron\\source\\repos\\rfid-based-attendance-system\\rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\liveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\liveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\aaron\\source\\repos\\rfid-based-attendance-system\\rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\liveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\liveview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\rfid_attendancesystem\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\aaron\\source\\repos\\rfid-based-attendance-system\\rfid_attendancesystem\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JA_DOCUMENTS_STUDENTREGISTRATION.MDF/True/SqlTable/dbo.StudentRegistration.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|C:\\Users\\ja\\Desktop\\RFID\\rfid\\rfid_attendancesystem\\sa_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\sa_registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_registrationwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\sa_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|c:\\users\\ja\\desktop\\rfid\\rfid\\rfid_attendancesystem\\sa_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742A3B8-FF53-4FD4-97E0-B81F1B351A2A}|RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj|solutionrelative:rfid_attendancesystem\\sa_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,105 +94,228 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\Dashboard.cs [Design]",
+              "Title": "RegistrationWindow.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:43:18.244Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-04T00:35:00.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DashboardPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\DashboardPanel.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\DashboardPanel.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\DashboardPanel.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\DashboardPanel.cs [Design]",
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationForm.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:29:00.464Z"
+              "WhenOpened": "2025-03-03T11:41:20.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LiveView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\LiveView.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\LiveView.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\LiveView.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\LiveView.cs [Design]",
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:29:02.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegistrationWindow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RegistrationWindow.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationWindow.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RegistrationWindow.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationWindow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:50:10.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.cs",
-              "RelativeToolTip": "RFID_AttendanceSystem\\Dashboard.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:38:25.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Settings.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Settings.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Settings.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Settings.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\Settings.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:55:28.746Z"
+              "WhenOpened": "2025-03-04T00:34:56.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RegistrationForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RegistrationForm.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationForm.cs [Design]",
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:48:44.93Z"
+              "WhenOpened": "2025-03-04T00:34:49.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:31:14.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\RegistrationWindow.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RegistrationWindow.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\RegistrationWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:30:16.289Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Reports.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Reports.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Reports.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Reports.cs [Design]",
-              "RelativeToolTip": "RFID_AttendanceSystem\\Reports.cs [Design]",
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Dashboard.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\Dashboard.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwDYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:51:03.11Z"
+              "WhenOpened": "2025-03-03T11:32:05.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Dashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.Designer.cs",
-              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Dashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\Dashboard.Designer.cs",
-              "RelativeToolTip": "RFID_AttendanceSystem\\Dashboard.Designer.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAwwJsAAAA0AAAAAAAAAA==",
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Reports.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\Reports.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\Reports.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\Reports.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:42:41.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T01:25:42.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LiveView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\LiveView.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\LiveView.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\LiveView.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\LiveView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:34:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.StudentRegistration.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JA_DOCUMENTS_STUDENTREGISTRATION.MDF/True/SqlTable/dbo.StudentRegistration.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JA_DOCUMENTS_STUDENTREGISTRATION.MDF/True/SqlTable/dbo.StudentRegistration.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-04T01:25:29.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\DashboardPanel.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\DashboardPanel.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\DashboardPanel.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\DashboardPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:34:48.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SA_Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Settings.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_Settings.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Settings.cs [Design]*",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_Settings.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:31:07.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SA_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Dashboard.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:30:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SA_RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:41:01.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SA_Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Reports.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_Reports.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Reports.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:40:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SA_DashboardPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_DashboardPanel.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_DashboardPanel.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_DashboardPanel.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_DashboardPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:33:23.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SA_RegistrationWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationWindow.cs [Design]",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_RegistrationWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:39:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SA_RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_RegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:41:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SA_RegistrationWindow.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_RegistrationWindow.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:40:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SA_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "RelativeDocumentMoniker": "RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "RelativeToolTip": "RFID_AttendanceSystem\\SA_Dashboard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:32:14.791Z"
             }
           ]
         }

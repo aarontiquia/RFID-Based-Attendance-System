@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj": {}
+    "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj": {
+    "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
+        "projectUniqueName": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
         "projectName": "RFID_AttendanceSystem",
-        "projectPath": "C:\\Users\\aaron\\source\\repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
-        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaron\\Source\\Repos\\RFID-Based-Attendance-System\\RFID_AttendanceSystem\\obj\\",
+        "projectPath": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\RFID_AttendanceSystem.csproj",
+        "packagesPath": "C:\\Users\\ja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ja\\Desktop\\RFID\\rfid\\RFID_AttendanceSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

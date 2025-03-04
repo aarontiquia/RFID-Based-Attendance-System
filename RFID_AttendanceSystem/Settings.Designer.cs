@@ -124,7 +124,7 @@
             panel4.Font = new Font("Arial", 9F);
             panel4.Location = new Point(63, 198);
             panel4.Name = "panel4";
-            panel4.Size = new Size(541, 179);
+            panel4.Size = new Size(511, 165);
             panel4.TabIndex = 1;
             // 
             // radioButton6
